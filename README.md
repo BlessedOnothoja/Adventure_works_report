@@ -53,11 +53,11 @@ A card visual was used to display the outcome on the Exec dashboard.
  ![Screenshot 2024-08-05 124014](https://github.com/user-attachments/assets/7cd1996f-9111-433f-8bb6-dd0f477532f6)
 
 - Step 20: A Quantity returned measure was created using DAX function as seen.
-
 ![Screenshot 2024-08-04 193036](https://github.com/user-attachments/assets/88f44041-88ce-4cb1-a941-2b9414ffb8c9)
-- Step 21: Another measure was created named Quantity sold as seen:
 
+- Step 21: Another measure was created named Quantity sold as seen:
 ![Screenshot 2024-08-04 195119](https://github.com/user-attachments/assets/701cd18c-2e3a-4b5f-af71-e4f68ed6a1bf)
+
 - Step 22: Measures generated in step 19 and 20 were used to create a new measure called Return rate, which was visualized using card on the exec dashboard.
 ![Screenshot 2024-08-05 124351](https://github.com/user-attachments/assets/7fa4583c-10dc-4b46-b9d5-4df8c8dd6237)
 
@@ -83,19 +83,16 @@ A card visual was used to display the outcome on the Exec dashboard.
 ![Screenshot 2024-08-05 130402](https://github.com/user-attachments/assets/9fe3d0b6-0b67-44b1-be36-97a082bf2ae1)
 
 -Step 26: A measure was created called Total no of customer, and was visualized using card on the customers details page of the report.
-
 ![Screenshot 2024-08-04 201530](https://github.com/user-attachments/assets/b5558e7c-fa08-4cfb-92b4-2902fd3e9a16)
 
 ![Screenshot 2024-08-05 131706](https://github.com/user-attachments/assets/904180d8-1654-4ffb-88fd-081e9d441bee)
 
 Step 27: A measure was created called Average revenue per customer and was visualized with card on Customers details page.
-
 ![Screenshot 2024-08-05 130810](https://github.com/user-attachments/assets/44f50004-c4e6-4239-ae72-e06707b6d086)
 
 ![Screenshot 2024-08-05 131936](https://github.com/user-attachments/assets/e28edb20-97b0-4ce2-be10-94e5f9904fe9)
 
 - Step 28: A calculated column was created in the customer lookup table to group the income level of customer using DAX.
-
 ![Screenshot 2024-08-05 133610](https://github.com/user-attachments/assets/ad5bd7b2-be39-4625-a3b9-04c6bfef8149)
 
 This was used to visualize the income level by orders in the customers details page of the report.
@@ -127,7 +124,7 @@ A 3 page report was created on ower BI desktop. The following inferences can be 
 
 ### [1] Executive Dashboard
 
- 1.1) At the time of this report, the buisness had       generated $24.91m in revenue and $10.46m in profit. Total orders producing this revenue was 25.16k and the return rate was 2.17%.
+ 1.1) At the time of this report, the buisness had generated $24.91m in revenue and $10.46m in profit. Total orders producing this revenue was 25.16k and the return rate was 2.17%.
 The line chart can be used to check these metrics at any instance in time through the period from 2020-2022.
 
 1.2) Month over month for revenue and returns are in a good place(positive progression by 3.31% and 1.18% respectively). However, MoM of orders dropped by 0.88%.

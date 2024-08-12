@@ -53,14 +53,18 @@ A card visual was used to display the outcome on the Exec dashboard.
  ![Screenshot 2024-08-05 124014](https://github.com/user-attachments/assets/7cd1996f-9111-433f-8bb6-dd0f477532f6)
 
 - Step 20: A Quantity returned measure was created using DAX function as seen.
+
 ![Screenshot 2024-08-04 193036](https://github.com/user-attachments/assets/88f44041-88ce-4cb1-a941-2b9414ffb8c9)
 - Step 21: Another measure was created named Quantity sold as seen:
+
 ![Screenshot 2024-08-04 195119](https://github.com/user-attachments/assets/701cd18c-2e3a-4b5f-af71-e4f68ed6a1bf)
 - Step 22: Measures generated in step 19 and 20 were used to create a new measure called Return rate, which was visualized using card on the exec dashboard.
 ![Screenshot 2024-08-05 124351](https://github.com/user-attachments/assets/7fa4583c-10dc-4b46-b9d5-4df8c8dd6237)
 
 ![Screenshot 2024-08-05 124516](https://github.com/user-attachments/assets/3a4488dd-95c5-4904-8893-5f02078f9874)
+
 - Step 23: DAX was used to compare previous months for revenue, orders and return rate to see how well the buisness was performing. they were visualized using the Key Performance Index(KPI) on the exec dashboard.
+
 ![Screenshot 2024-08-05 124921](https://github.com/user-attachments/assets/cec52ef3-5230-4142-8271-c1add63f8838)
 
 ![Screenshot 2024-08-05 125127](https://github.com/user-attachments/assets/66283c61-9b0d-4f81-8581-ea1f4513ce53)
@@ -75,18 +79,23 @@ A card visual was used to display the outcome on the Exec dashboard.
 
 -Step 24:On the data view, the data category for the region,country and continent were changed on the territory table to geo-spatial categories.
 - Step 25: A map visual was created with navigation buttons for the 4 countries where the buisness is located. This was displayed on the map page of the report.
+
 ![Screenshot 2024-08-05 130402](https://github.com/user-attachments/assets/9fe3d0b6-0b67-44b1-be36-97a082bf2ae1)
+
 -Step 26: A measure was created called Total no of customer, and was visualized using card on the customers details page of the report.
+
 ![Screenshot 2024-08-04 201530](https://github.com/user-attachments/assets/b5558e7c-fa08-4cfb-92b4-2902fd3e9a16)
 
 ![Screenshot 2024-08-05 131706](https://github.com/user-attachments/assets/904180d8-1654-4ffb-88fd-081e9d441bee)
 
 Step 27: A measure was created called Average revenue per customer and was visualized with card on Customers details page.
+
 ![Screenshot 2024-08-05 130810](https://github.com/user-attachments/assets/44f50004-c4e6-4239-ae72-e06707b6d086)
 
 ![Screenshot 2024-08-05 131936](https://github.com/user-attachments/assets/e28edb20-97b0-4ce2-be10-94e5f9904fe9)
 
 - Step 28: A calculated column was created in the customer lookup table to group the income level of customer using DAX.
+
 ![Screenshot 2024-08-05 133610](https://github.com/user-attachments/assets/ad5bd7b2-be39-4625-a3b9-04c6bfef8149)
 
 This was used to visualize the income level by orders in the customers details page of the report.
@@ -94,16 +103,19 @@ This was used to visualize the income level by orders in the customers details p
 -Step 29: The report view contains 3 different reports. A dashboards for high level metrics (such as those contained in the Executive dashboard), metrics showing performance by company location and customers metrics.
 
 Step 30: In the exec dashboard, 6 card visuals were used. While 4 were numeric displey of insights such as revenue, profit, orders and return rate, the other two displayed most purchased type and most returned product type. A line chart visual was used to show revenue generated over time. A table was used to show the top 10 products purchased with their associated metrics. A pie chart was used to show orders by product category.
+
 # Snapshot of The Executive dashboard
 ![Screenshot 2024-08-05 161222](https://github.com/user-attachments/assets/abc4a26d-2e14-4619-9869-a995bfefaa42)
 
 Step 31: The map dashboard showed the total orders by continents in a map visualization.
+
 # Snapshot of The Map dashboard
 ![Screenshot 2024-08-05 141100](https://github.com/user-attachments/assets/9f370fc1-7cea-4f3e-b922-759e7697f0bb)
 
 Step 32: The customers details dashboard shows top customer by order and revenue in card and table visuals, total customers and average revenue per customer in card visuals and line chart, total orders by income level and occupation in donut charts.
 # Snapshot of the Customers details dashboard
-![Screenshot 2024-08-05 141256](https://github.com/user-attachments/assets/8d641fae-be85-4005-9aa0-09e0dcebc90b)
+![Screenshot 2024-08-12 145830](https://github.com/user-attachments/assets/09efc6b1-6a44-432b-93ba-39897729f814)
+
 
 - On the far left of each report page are navigation buttons which can be used to navigate through the report pages and ![Screenshot 2024-08-05 190851](https://github.com/user-attachments/assets/0b1d87bc-b228-4282-a7fe-004e19394364) in the Exec dashboard is used to clear all filters.
 
@@ -140,3 +152,4 @@ The line chart can be used to check these metrics at any instance in time throug
 
 ## Reference
 - Chris D. and Aaron P., Maven Analytics, Microsoft Power BI desktop for Business Intelligence.
+

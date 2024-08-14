@@ -127,7 +127,7 @@ A 3 page report was created on ower BI desktop. The following inferences can be 
  1.1) At the time of this report, the buisness had generated $24.91m in revenue and $10.46m in profit. Total orders producing this revenue was 25.16k and the return rate was 2.17%.
 The line chart can be used to check these metrics at any instance in time through the period from 2020-2022.
 
-1.2) Month over month for revenue and returns are in a good place(positive progression by 3.31% and 1.18% respectively). However, MoM of orders dropped by 0.88%.
+1.2) Month over month for revenue and returns are in a good place(positive progression by 3.31% and 1.18% respectively compare to the previous month). However, MoM of orders dropped by 0.88%.
 
 1.3) Accessories is the most ordered product category making up 44.82% of the total orders.
 
